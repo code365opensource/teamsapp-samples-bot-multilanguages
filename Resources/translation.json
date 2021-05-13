@@ -1,0 +1,10 @@
+{
+    "en": {
+        "Echo": "Echo:{0}",
+        "Welcome": "Hello and welcome!"
+    },
+    "zh": {
+        "Echo": "回音:{0}",
+        "Welcome": "欢迎!"
+    }
+}
